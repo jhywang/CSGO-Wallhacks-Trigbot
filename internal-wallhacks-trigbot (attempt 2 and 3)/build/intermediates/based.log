@@ -1,0 +1,12 @@
+﻿  globals.cpp
+  hooks.cpp
+  interfaces.cpp
+  netvars.cpp
+  misc.cpp
+  main.cpp
+  Generating code
+  40 of 1143 functions ( 3.5%) were compiled, the rest were copied from previous compilation.
+    36 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  based.vcxproj -> C:\Users\Joyce Wang\Desktop\security\based-master\build\based.dll

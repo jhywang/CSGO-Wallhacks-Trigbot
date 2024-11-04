@@ -1,0 +1,12 @@
+2024-11-03 00:22:04 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-11-03 00:23:29 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 25696, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-11-03 00:23:29 *CRITICAL*   Injecting image 'C:\Users\Joyce Wang\Desktop\security\based-master\build\based.dll'
+
+2024-11-03 17:25:49 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-11-03 17:25:58 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 23116, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-11-03 17:25:58 *CRITICAL*   Injecting image 'C:\Users\Joyce Wang\Desktop\security\based-master\build\based.dll'
+
+2024-11-03 17:45:19 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-11-03 17:46:10 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 18256, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-11-03 17:46:10 *CRITICAL*   Injecting image 'C:\Users\Joyce Wang\Desktop\security\based-master\build\based.dll'
+

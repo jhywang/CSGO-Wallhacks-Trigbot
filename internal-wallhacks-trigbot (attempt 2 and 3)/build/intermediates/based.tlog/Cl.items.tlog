@@ -1,0 +1,12 @@
+C:\Users\Joyce Wang\Desktop\security\based-master\ext\minhook\buffer.c;C:\Users\Joyce Wang\Desktop\security\based-master\build\intermediates\buffer.obj
+C:\Users\Joyce Wang\Desktop\security\based-master\ext\minhook\hde\hde32.c;C:\Users\Joyce Wang\Desktop\security\based-master\build\intermediates\hde32.obj
+C:\Users\Joyce Wang\Desktop\security\based-master\ext\minhook\hde\hde64.c;C:\Users\Joyce Wang\Desktop\security\based-master\build\intermediates\hde64.obj
+C:\Users\Joyce Wang\Desktop\security\based-master\ext\minhook\hook.c;C:\Users\Joyce Wang\Desktop\security\based-master\build\intermediates\hook.obj
+C:\Users\Joyce Wang\Desktop\security\based-master\ext\minhook\trampoline.c;C:\Users\Joyce Wang\Desktop\security\based-master\build\intermediates\trampoline.obj
+C:\Users\Joyce Wang\Desktop\security\based-master\src\core\globals.cpp;C:\Users\Joyce Wang\Desktop\security\based-master\build\intermediates\globals.obj
+C:\Users\Joyce Wang\Desktop\security\based-master\src\core\hooks.cpp;C:\Users\Joyce Wang\Desktop\security\based-master\build\intermediates\hooks.obj
+C:\Users\Joyce Wang\Desktop\security\based-master\src\core\interfaces.cpp;C:\Users\Joyce Wang\Desktop\security\based-master\build\intermediates\interfaces.obj
+C:\Users\Joyce Wang\Desktop\security\based-master\src\core\netvars.cpp;C:\Users\Joyce Wang\Desktop\security\based-master\build\intermediates\netvars.obj
+C:\Users\Joyce Wang\Desktop\security\based-master\src\hacks\misc.cpp;C:\Users\Joyce Wang\Desktop\security\based-master\build\intermediates\misc.obj
+C:\Users\Joyce Wang\Desktop\security\based-master\src\main.cpp;C:\Users\Joyce Wang\Desktop\security\based-master\build\intermediates\main.obj
+C:\Users\Joyce Wang\Desktop\security\based-master\src\util\memory.cpp;C:\Users\Joyce Wang\Desktop\security\based-master\build\intermediates\memory.obj
